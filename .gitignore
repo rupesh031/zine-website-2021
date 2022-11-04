@@ -1,6 +1,5 @@
 node_modules
-components/
-images/
+
 .next
 out
 out.*
