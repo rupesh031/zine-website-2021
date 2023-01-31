@@ -714,7 +714,7 @@ const thirdyear = [
     image: ashok,
     desc: "Electrical Engineering",
     github: "",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/ashok-kumar-saini-505b9b202/",
     twitter: "",
     instagram: "",
     facebook: ""
