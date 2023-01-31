@@ -1,10 +1,12 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  reactStrictMode: true,
+  // assetPrefix: "./",
+  // reactStrictMode: true,
   images: {
     unoptimized: true,
-    loader: "imgix",
-    path: "http://zine.co.in/",
+    // loader: "akamai",
+    // loader: "imgix",
+    // path: "/",
   },
   trailingSlash: true,
 };
