@@ -37,6 +37,10 @@ import priyansh from '../../images/firstyear/priyansh.webp'
 import ashok from '../../images/secondyear/ashok.webp'
 import jaydeep from '../../images/firstyear/jaydeep.webp'
 import granth from '../../images/firstyear/granth.webp'
+import rupesh from '../../images/firstyear/rupesh.webp'
+import harshitS from '../../images/firstyear/harshit.webp'
+import meet from '../../images/firstyear/meet.webp'
+import yug from '../../images/firstyear/yug.png'
 // interface pic_detail {
 //   name: string;
 //   image: StaticImageData;
@@ -592,16 +596,16 @@ const finalyear = [
     instagram: "",
     facebook: ""
   },
-  {
-    name: "ISHIKA PANWAR",
-    image: ishika,
-    desc: "Computer Science Engineering",
-    github: "",
-    linkedin: "https://www.linkedin.com/in/ishika-panwar-23a5551a1/",
-    twitter: "",
-    instagram: "",
-    facebook: ""
-  },
+  // {
+  //   name: "ISHIKA PANWAR",
+  //   image: ishika,
+  //   desc: "Computer Science Engineering",
+  //   github: "",
+  //   linkedin: "https://www.linkedin.com/in/ishika-panwar-23a5551a1/",
+  //   twitter: "",
+  //   instagram: "",
+  //   facebook: ""
+  // },
   {
     name: "PAVNESH CHATURVEDI",
     image: pavnesh,
@@ -734,7 +738,49 @@ const secondyear = [
     image: jaydeep,
     desc: "Civil Engineering",
     github: "",
-    linkedin: "https://www.linkedin.com/in/priyansh-kothari-648a161a5/",
+    linkedin: "https://www.linkedin.com/in/jaydeep-singh-8ab748226/",
+    twitter: "",
+    instagram: "",
+    facebook: ""
+  },
+ 
+ 
+  {
+    name: "Harshit Sandilya",
+    image: harshitS,
+    desc: "Computer Science Engineering",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/harshit-sandilya-625a47230/",
+    twitter: "",
+    instagram: "",
+    facebook: ""
+  },
+  {
+    name: "Rupesh Yadav",
+    image: rupesh,
+    desc: "Electronics and Communication Engineering",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/rupesh-yadav-634879229/",
+    twitter: "",
+    instagram: "",
+    facebook: ""
+  },
+  {
+    name: "Meet Kasvala",
+    image: meet,
+    desc: "Electrical Engineering",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/meet-kasvala-8302a4223/",
+    twitter: "",
+    instagram: "",
+    facebook: ""
+  },
+  {
+    name: "Yug Modi",
+    image: yug,
+    desc: "Computer Science Engineering",
+    github: "",
+    linkedin: "https://www.linkedin.com/in/yug-modi-27b965215/",
     twitter: "",
     instagram: "",
     facebook: ""
